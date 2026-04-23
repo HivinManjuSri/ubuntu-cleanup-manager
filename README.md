@@ -1,3 +1,4 @@
+wget -O ubuntu-cleanup-manager_1.1.0_all.deb "https://github.com/HivinManjuSri/ubuntu-cleanup-manager/releases/latest/download/ubuntu-cleanup-manager_1.1.0_all.deb" && sudo apt install -y ./ubuntu-cleanup-manager_1.1.0_all.deb
 # Ubuntu Cleanup Manager
 
 Ubuntu Cleanup Manager is a PyQt5 desktop utility for Ubuntu systems. It gives you a simple graphical interface to:
